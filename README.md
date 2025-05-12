@@ -18,21 +18,25 @@ This project forecasts daily revenue from Brazil's Olist e-commerce platform usi
 ![Screenshot 2025-05-12 at 3 19 07 PM](https://github.com/user-attachments/assets/7afc7b21-2ed7-4f70-8cb4-1477f3e13d92)
 
 ---
+**Data**:
+Oliveira, D. (2018). *Brazilian E-commerce Public Dataset*. Olist. Retrieved from [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## How to run
 
 To run, first clone the repo as:
-```bash
-git clone https://github.com/yourusername/olist-revenue-forecast.git```
+```
+git clone https://github.com/yourusername/olist-revenue-forecast.git
+```
 
 Then, from within the project folder, install dependencies as:
-```bash
-pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Then run the following command from your terminal:
-``bash
-streamlit run app.py```
+```
+streamlit run app.py
+```
 
-**Data**:
-Oliveira, D. (2018). *Brazilian E-commerce Public Dataset*. Olist. Retrieved from [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 
